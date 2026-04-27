@@ -19,14 +19,102 @@ author_profile: true
   
   
   
+## 📅 $\color{red} {2026} $
+[4]<a href = "https://doi.org/10.1016/j.dibe.2026.100920">From street-view sensing to maintenance decisions: A knowledge-based engineering informatics framework for urban pavement defect assessment</a>  
+      *Developments in the Built Environment*, 2026, 26, 100920.  
+      **Li, Linchao**, Li, Bangxing, Liu, Jiazhen and Du, Bowen
+
+[3]<a href = "https://doi.org/10.1016/j.dibe.2025.100832">Automated construction monitoring based on computer vision: A comprehensive review</a>  
+      *Developments in the Built Environment*, 2026, 25, 100832.  
+      **Li, Linchao**, Huang, Zijian, Wang, Junzhen, Du, Bowen and Dailin, Fabao
+
+[2]<a href = "https://doi.org/10.1016/j.ress.2026.112374">Resilience assessment of urban mobility flow networks from different scales: A case study in Shenzhen</a>  
+      *Reliability Engineering & System Safety*, 2026, 274, 112374.  
+      **Li, Linchao**, Li, Bangxing and Zhong, Liangjian
+
+[1]<a href = "https://doi.org/10.1061/JCEMD4.COENG-16807">Automated Tracking of Worker and Heavy Equipment on Tunnel Construction Sites: Deep-Learning Framework</a>  
+      *Journal of Construction Engineering and Management*, 2026, 152(2), 04025237.  
+      **Li, Linchao**, Cui, Xiaodong, Wang, Junzheng, Jin, Hao and Xu, Hongbin
+
+
+## 📅 $\color{red} {2025} $
+[5]<a href = "https://doi.org/10.1016/j.ress.2025.111285">Micro-mobility behavior resilience analysis in extreme weather events based on a knowledge-informed machine learning approach</a>  
+      *Reliability Engineering & System Safety*, 2025, 264, 111285.  
+      Zhong, Liangjian, Gan, Zuoxian, Yu, Qing and **Li, Linchao**
+
+[4]<a href = "https://doi.org/10.1016/j.aei.2025.103566">An adaptive high-order singular value decomposition for spatial and temporal monitoring data imputation for tunnel digital twin</a>  
+      *Advanced Engineering Informatics*, 2025, 68, 103566.  
+      **Li, Linchao**, Lin, Xiang, Gong, Qi, Xu, Hongbin and Du, Yanliang
+
+[3]<a href = "https://doi.org/10.1016/j.trd.2025.104804">Can public transportation improve equity in high-level healthcare time accessibility?</a>  
+      *Transportation Research Part D: Transport and Environment*, 2025, 145, 104804.  
+      Gan, Zuoxian, **Li, Linchao**, Miao, Hongzhi, Zhao, Ruijia and Yang, Min
+
+[2]<a href = "https://doi.org/10.1155/atr/1923889">Urban Traffic Accident Frequency Modeling: An Improved Spatial Matrix Construction Method</a>  
+      *Journal of Advanced Transportation*, 2025, 2025, 1923889.  
+      Gan, Jing, Su, Qing, Li, Linheng, Ju, Yanni and **Li, Linchao**
+
+[1]<a href = "https://doi.org/10.1155/atr/5065270">Investigating Factors Contributing to Urban Traffic Incident Risk Using High-Resolution Heterogeneous Data</a>  
+      *Journal of Advanced Transportation*, 2025, 2025, 5065270.  
+      Zhu, Dongpeng, Zhang, Yuzhi, Wen, Dilin and **Li, Linchao**
+
+
+## 📅 $\color{red} {2024} $
+[6]<a href = "https://doi.org/10.1016/j.fmre.2024.03.032">Tensor decomposition of transportation temporal and spatial big data: A brief review</a>  
+      *Fundamental Research*, 2024, Online.  
+      **Li, Linchao**, Lin, Xiang, Ran, Bin and Du, Bowen
+
+[5]<a href = "https://doi.org/10.1016/j.eswa.2024.123543">Spatial-temporal graph convolution network model with traffic fundamental diagram information informed for network traffic flow prediction</a>  
+      *Expert Systems with Applications*, 2024, 249, 123543.  
+      Liu, Zhao, Ding, Fan, Dai, Yunqi, **Li, Linchao**, Chen, Tianyi and Tan, Huachun
+
+[4]<a href = "https://doi.org/10.1093/tse/tdad025">Factors affecting college students' attitudes towards carpooling</a>  
+      *Transportation Safety and Environment*, 2024, 6(2), tdad025.  
+      **Li, Linchao**, Zhang, Huali and Gan, Zuoxian
+
+[3]<a href = "https://doi.org/10.1109/TITS.2024.3360725">Road pothole detection based on crowdsourced data and extended Mask R-CNN</a>  
+      *IEEE Transactions on Intelligent Transportation Systems*, 2024, 25(9), 12504-12516.  
+      **Li, Linchao**, Liu, Jiazhen, Xing, Jiabao, Liu, Zhiyang, Lin, Kai and Du, Bowen
+
+[2]<a href = "https://doi.org/10.1016/j.tust.2023.105564">Analysis of the relationship between metro ridership and built environment: A machine learning method considering combinational features</a>  
+      *Tunnelling and Underground Space Technology*, 2024, 144, 105564.  
+      **Li, Linchao**, Zhong, Liangjian, Ran, Bin and Du, Bowen
+
+[1]<a href = "https://doi.org/10.1109/TKDE.2024.3360640">Hierarchical context representation and self-adaptive thresholding for multivariate anomaly detection</a>  
+      *IEEE Transactions on Knowledge and Data Engineering*, 2024, 36(7), 3139-3150.  
+      Lin, Chunming, Du, Bowen, Sun, Leilei and **Li, Linchao**
+
+
+## 📅 $\color{red} {2023} $
+[5]<a href = "https://doi.org/10.1109/JIOT.2023.3305395">A physical law constrained deep learning model for vehicle trajectory prediction</a>  
+      *IEEE Internet of Things Journal*, 2023, 10(24), 22775-22790.  
+      Li, Hanchu, Liao, Ziyi, Rui, Yikang, **Li, Linchao** and Ran, Bin
+
+[4]<a href = "https://doi.org/10.1109/JSEN.2023.3254506">Anomaly detection of high-frequency sensing data in transportation infrastructure monitoring system based on fine-tuned model</a>  
+      *IEEE Sensors Journal*, 2023, 23(8), 8630-8638.  
+      Liu, Hanlin and **Li, Linchao**
+
+[3]<a href = "https://doi.org/10.19713/j.cnki.43-1423/u.T20220712">Metro tunnel accessorial facilities and lining diseases detection method based on improved Yolov5 (基于改进 Yolov5 的地铁隧道附属设施与衬砌表观病害检测方法)</a>  
+      *Journal of Railway Science & Engineering (铁道科学与工程学报)*, 2023, 20(3).  
+      Zhu, Jiasong, Zheng, Ao, Lei, Zhanzhan, Lian, Minqing, Yang, Junwu and **Li, Linchao**
+
+[2]<a href = "https://doi.org/10.1177/14759217221094499">Heterogeneous structural responses recovery based on multi-modal deep learning</a>  
+      *Structural Health Monitoring*, 2023, 22(2), 799-813.  
+      Du, Bowen, Wu, Liyu, Sun, Leilei, Xu, Fei and **Li, Linchao**
+
+[1]<a href = "https://doi.org/10.1155/2023/1286977">TCN-SA: A Social Attention Network Based on Temporal Convolutional Network for Vehicle Trajectory Prediction</a>  
+      *Journal of Advanced Transportation*, 2023, 2023, 1286977.  
+      Li, Qin, Ou, Bingguang, Liang, Yifa, Wang, Yong, Yang, Xuan and **Li, Linchao**
+
+
 ## 📅 $\color{red} {2022} $
-[9]<a href = "https://www.sciencedirect.com/science/article/pii/S0926580522002175">Smartphone-based road manhole cover detection and classification</a>  
+[9]<a href = "https://doi.org/10.1109/TVT.2022.3199507">DeepVIP: Deep Learning-Based Vehicle Indoor Positioning Using Smartphones</a>  
+      *IEEE Transactions on Vehicular Technology*, 2022, 71(12), 13299-13309.  
+      Zhou, Baoding, Gu, Zhining, Gu, Fuqiang, Wu, Peng, Yang, Chengjing, Liu, Xu, **Li, Linchao**, Li, Yan and Li, Qingquan
+
+[8]<a href = "https://www.sciencedirect.com/science/article/pii/S0926580522002175">Smartphone-based road manhole cover detection and classification</a>  
       *Automation in Construction*, 2022, 140, 104344.  
       Zhou, Baoding and Zhao, Wenjian and Guo, Wenhao and **Li, Linchao** and Zhang, Dejin and Mao, Qingzhou and Li, Qingquan
-      
-[8]<a href = "https://journals.sagepub.com/doi/abs/10.1177/14759217221094499">Heterogeneous structural responses recovery based on multi-modal deep learning</a>  
-      *Structural Health Monitoring*, 2022, Early Access.  
-      Du, Bowen and Wu, Liyu and Sun, Leilei and Xu, Fei and **Li, Linchao**\*
 
 [7]<a href="https://ieeexplore.ieee.org/abstract/document/9762328/">A temporal and spatial denoising method for intelligent settlement sensing system</a>  
       *IEEE Sensors Journal*, 2022, Early Access.  
@@ -207,3 +295,16 @@ author_profile: true
       Yonggang Wang, **Linchao Li**, Lei Feng, Hui Peng 
       
 # Conference Publications
+
+## 📅 $\color{red} {2023} $
+[3]Risks evaluation of utility tunnel for gas leakage, fire and explosion disasters  
+      *2023 2nd International Conference on Artificial Intelligence and Computer Information Technology*.  
+      Zhou, Haijun, Liu, Zhunqiao, **Li, Linchao**, Fan, Chong and Sun, Bin
+
+[2]Real-time fire detection for urban tunnels based on multi-source data and transfer learning  
+      *2023 4th International Symposium on Computer Engineering and Intelligent Communications*.  
+      **Li, Linchao** and Yi, Junnan
+
+[1]Nonlinear Relationship between Built Environments and Metro Ridership at Station-to-Station Level on Machine Learning Methods: A Comparison of Commuters and Non-Commuters  
+      *CICTP 2023*, 2573-2583.  
+      Zhong, Liangjian, Gan, Zuoxian and **Li, Linchao**
