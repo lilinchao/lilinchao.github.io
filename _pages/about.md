@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 I am currently an Associate Professor in the College of Civil and Transportation Engineering at Shenzhen University, and received my Ph.D. degree in Transportation Engineering from Southeast University.  
-My research focuses on intelligent transportation systems, infrastructure sensing and safety maintenance, and spatiotemporal data modeling, with particular interests in crowdsourced sensing, signal processing, machine learning, tensor decomposition, and optimization methods for resilient and intelligent mobility systems. 
+My research focuses on two areas: intelligent infrastructure sensing and safety maintenance, and spatiotemporal data modeling for resilient transportation systems. 
 
 ## 👦 For Prospective Students/Postdocs
 * I am looking for one motivated Postdoc in 1) Urban computing, 2) Intelligent transportation systems, 3) Temporal and spatial data modeling. Please send me an email with your CV, a brief research statement (one page or less) and transcripts.
