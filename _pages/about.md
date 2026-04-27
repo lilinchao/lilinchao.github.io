@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Associate Professor in the College of Civil and Transportation Engineering at Shenzhen University, and received my Ph.D. degree in Transportation Engineering from Southeast University.  
+I am currently an Associate Professor in the College of Civil and Transportation Engineering and the State Key Laboratory of Green and Long-Life Road Engineering in Extreme Environment at Shenzhen University, and received my Ph.D. degree in Transportation Engineering from Southeast University.  
 My research focuses on two areas: intelligent infrastructure sensing and safety maintenance, and spatiotemporal data modeling for resilient transportation systems. 
 
 ## 👦 For Prospective Students/Postdocs
