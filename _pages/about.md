@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently an Associate Professor in the College of Civil and Transportation Engineering at Shenzhen University. I am working in the Institute of Urban Smart Transportation & Safety Maintenance, led by Academician of Chinese Academy of Engineering Yanliang Du. I received my Ph.D degree in Transportation Engineering from Southeast University advised by Prof. Bin Ran.  
+I am currently an Associate Professor in the College of Civil and Transportation Engineering at Shenzhen University. I am working in the State Key Laboratory of Green and Long-Life Road Engineering in Extreme Environment, led by Academician of Chinese Academy of Engineering Yanliang Du. I received my Ph.D degree in Transportation Engineering from Southeast University advised by Prof. Bin Ran.  
 The intelligent sensing of human, vehicle, infrastructure, and environment and effective data mining are fundamentals of the intelligent transportation system (ITS). It is necessary to apply advanced sensors and develop new models to improve the safety, intelligence, and resilience of the system. Towards this goal, I work on crowdsourcing solution and signal processing for ITS and developing new algorithms based on machine learning, tensor decomposition, and optimization for temporal and spatial data. My research papers have been cited more than 900 times on Google Scholar and the research findings fortunately received several awards. 
 
 ## 👦 For Prospective Students/Postdocs
