@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Linchao Li / Homepage"
 title_separator          : "-"
 name                     : &name "Your Name"
-description              : &description "Assistant Professor at Shenzhen University"
+description              : &description "Associate Professor at Shenzhen University"
 url                      : https://lilinchao.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lilinchao.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Dr. Linchao Li"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at Shenzhen University"
+  bio              : "Associate Professor at Shenzhen University"
   location         : "Shenzhen"
   employer         :
   pubmed           : 
