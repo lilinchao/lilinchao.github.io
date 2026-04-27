@@ -6,6 +6,9 @@ main:
         
   - title: "Publications"
     url: /publications/
+
+  - title: "Highlights"
+    url: /paper-highlights/pavement-defect/
     
   - title: "Projects"
     url: /projects/
