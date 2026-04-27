@@ -124,13 +124,76 @@ author_profile: true
       *Developments in the Built Environment*, 2026, 25, 100832.  
       **Li, Linchao**, Huang, Zijian, Wang, Junzhen, Du, Bowen and Dailin, Fabao
 
+<div class="paper-highlight">
+  <p class="paper-highlight__label">Highlight</p>
+  <div class="paper-highlight__grid">
+    <div class="paper-highlight__core">
+      <strong>Core contribution:</strong> This review builds a practical knowledge map for computer-vision-based construction monitoring, connecting sensing equipment, algorithms, datasets, evaluation metrics, and site-management applications.
+      <div class="paper-highlight__metrics">
+        <div><strong>CV</strong><span>construction monitoring</span></div>
+        <div><strong>UAVs</strong><span>cameras and phones</span></div>
+        <div><strong>mAP/FPS</strong><span>performance trade-offs</span></div>
+        <div><strong>Safety+</strong><span>productivity and SHM</span></div>
+      </div>
+    </div>
+    <ul class="paper-highlight__points">
+      <li>Systematically reviews equipment, methods, datasets, metrics, and applications for automated construction monitoring.</li>
+      <li>Compares data collection setups including single cameras, UAVs, mobile phones, and multi-camera systems.</li>
+      <li>Identifies real-world barriers such as environmental variability, limited dataset generalization, metric inconsistency, and deployment integration.</li>
+      <li>Provides guidance for selecting monitoring configurations and future directions such as hybrid models, large-scale datasets, and integrated platforms.</li>
+    </ul>
+  </div>
+</div>
+
 [2]<a href = "https://doi.org/10.1016/j.ress.2026.112374">Resilience assessment of urban mobility flow networks from different scales: A case study in Shenzhen</a>  
       *Reliability Engineering & System Safety*, 2026, 274, 112374.  
       **Li, Linchao**, Li, Bangxing and Zhong, Liangjian
 
+<div class="paper-highlight">
+  <p class="paper-highlight__label">Highlight</p>
+  <div class="paper-highlight__grid">
+    <div class="paper-highlight__core">
+      <strong>Core contribution:</strong> This paper proposes a multi-scale resilience assessment framework for urban mobility flow networks, revealing how Shenzhen's mobility system fails and recovers under node- and link-based disruptions.
+      <div class="paper-highlight__metrics">
+        <div><strong>3 scales</strong><span>macro, meso, micro</span></div>
+        <div><strong>Nodes+Links</strong><span>joint disruption analysis</span></div>
+        <div><strong>Full cycle</strong><span>failure and recovery</span></div>
+        <div><strong>Shenzhen</strong><span>city-scale case study</span></div>
+      </div>
+    </div>
+    <ul class="paper-highlight__points">
+      <li>Moves beyond single-scale analysis by evaluating resilience at citywide, district/corridor, and street/intersection levels.</li>
+      <li>Models both failure and recovery processes, instead of only measuring robustness after disruption.</li>
+      <li>Uses centrality-based strategies to identify critical nodes and links that strongly shape mobility network performance.</li>
+      <li>Translates complex-network results into planning insights for resilience-oriented urban mobility management.</li>
+    </ul>
+  </div>
+</div>
+
 [1]<a href = "https://doi.org/10.1061/JCEMD4.COENG-16807">Automated Tracking of Worker and Heavy Equipment on Tunnel Construction Sites: Deep-Learning Framework</a>  
       *Journal of Construction Engineering and Management*, 2026, 152(2), 04025237.  
       **Li, Linchao**, Cui, Xiaodong, Wang, Junzheng, Jin, Hao and Xu, Hongbin
+
+<div class="paper-highlight">
+  <p class="paper-highlight__label">Highlight</p>
+  <div class="paper-highlight__grid">
+    <div class="paper-highlight__core">
+      <strong>Core contribution:</strong> This study develops a real-time deep-learning framework for detecting and tracking workers and heavy equipment in challenging tunnel construction scenes.
+      <div class="paper-highlight__metrics">
+        <div><strong>2,203</strong><span>annotated tunnel images</span></div>
+        <div><strong>10</strong><span>object categories</span></div>
+        <div><strong>0.907</strong><span>mAP@0.5</span></div>
+        <div><strong>86.21</strong><span>FPS detection speed</span></div>
+      </div>
+    </div>
+    <ul class="paper-highlight__points">
+      <li>Builds a tunnel-specific dataset covering workers and multiple categories of machinery in narrow, low-light, cluttered environments.</li>
+      <li>Enhances YOLOv8 with self-calibrated illumination to improve visibility and detection under poor lighting.</li>
+      <li>Introduces multiscale attention and a lightweight GhostNet backbone to improve dense small-target detection while reducing model complexity.</li>
+      <li>Combines improved YOLOv8 with Deep SORT to support real-time multi-object tracking for safety monitoring and construction management.</li>
+    </ul>
+  </div>
+</div>
 
 
 ## 📅 $\color{red} {2025} $
