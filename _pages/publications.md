@@ -16,6 +16,81 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 -->
+
+<style>
+  .paper-highlight {
+    margin: 0.85rem 0 1.6rem 1.4rem;
+    max-width: 920px;
+    padding: 1.05rem 1.2rem;
+    border: 1px solid #d8e1e5;
+    border-left: 5px solid #2f6f73;
+    border-radius: 8px;
+    background: linear-gradient(135deg, rgba(47, 111, 115, 0.08), rgba(255, 255, 255, 0.96));
+    box-shadow: 0 10px 24px rgba(35, 48, 58, 0.08);
+  }
+
+  .paper-highlight__label {
+    margin: 0 0 0.45rem;
+    color: #2f6f73;
+    font-size: 0.78rem;
+    font-weight: 700;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+
+  .paper-highlight__grid {
+    display: grid;
+    grid-template-columns: 0.85fr 1.35fr;
+    gap: 1rem;
+  }
+
+  .paper-highlight__core {
+    color: #2d3740;
+    font-size: 0.92rem;
+    line-height: 1.5;
+  }
+
+  .paper-highlight__metrics {
+    display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 0.45rem;
+    margin-top: 0.75rem;
+  }
+
+  .paper-highlight__metrics strong {
+    display: block;
+    color: #b24432;
+    font-size: 1.22rem;
+    line-height: 1.1;
+  }
+
+  .paper-highlight__metrics span {
+    color: #5d6874;
+    font-size: 0.75rem;
+  }
+
+  .paper-highlight__points {
+    margin: 0;
+    padding-left: 1rem;
+    color: #3f4d58;
+    font-size: 0.88rem;
+    line-height: 1.45;
+  }
+
+  .paper-highlight__points li {
+    margin-bottom: 0.35rem;
+  }
+
+  @media (max-width: 760px) {
+    .paper-highlight {
+      margin-left: 0;
+    }
+
+    .paper-highlight__grid {
+      grid-template-columns: 1fr;
+    }
+  }
+</style>
   
   
   
@@ -23,6 +98,27 @@ author_profile: true
 [4]<a href = "https://doi.org/10.1016/j.dibe.2026.100920">From street-view sensing to maintenance decisions: A knowledge-based engineering informatics framework for urban pavement defect assessment</a>  
       *Developments in the Built Environment*, 2026, 26, 100920.  
       **Li, Linchao**, Li, Bangxing, Liu, Jiazhen and Du, Bowen
+
+<div class="paper-highlight">
+  <p class="paper-highlight__label">Highlight</p>
+  <div class="paper-highlight__grid">
+    <div class="paper-highlight__core">
+      <strong>Core contribution:</strong> This study turns street-view imagery into a knowledge-based engineering informatics workflow for urban pavement defect assessment, linking visual sensing with maintenance-oriented decisions.
+      <div class="paper-highlight__metrics">
+        <div><strong>3,798</strong><span>annotated images</span></div>
+        <div><strong>6,000+</strong><span>defect targets</span></div>
+        <div><strong>YOLOv8+</strong><span>enhanced detector</span></div>
+        <div><strong>+4.7%</strong><span>mAP improvement</span></div>
+      </div>
+    </div>
+    <ul class="paper-highlight__points">
+      <li>Uses widely available street-view images to support scalable pavement condition sensing.</li>
+      <li>Builds a customized defect dataset for cracks and potholes in complex urban road scenes.</li>
+      <li>Enhances YOLOv8 for small, subtle, and low-resolution pavement defects through stronger feature representation and multi-scale fusion.</li>
+      <li>Connects detection outputs with pavement assessment and maintenance prioritization, moving from recognition to actionable engineering decisions.</li>
+    </ul>
+  </div>
+</div>
 
 [3]<a href = "https://doi.org/10.1016/j.dibe.2025.100832">Automated construction monitoring based on computer vision: A comprehensive review</a>  
       *Developments in the Built Environment*, 2026, 25, 100832.  
